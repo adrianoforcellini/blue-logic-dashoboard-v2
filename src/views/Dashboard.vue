@@ -335,7 +335,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 bg-variant="dark"
                 text-variant="white"
                 header="EFICIÊNCIA"
-                class="text-center col-md-11 mt-4"
+                class="text-center  mt-4"
+                style="width: 95%"
               >
                 <div style="display: flex; margin-top: 1vw">
                   <div
